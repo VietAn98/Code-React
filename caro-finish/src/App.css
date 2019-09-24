@@ -75,6 +75,8 @@ ol, ul {
 }
 
 .game {
+  margin-top: 20px;
+  margin-left: 20px;
   display: flex;
   flex-direction: row;
 }
@@ -82,4 +84,8 @@ ol, ul {
 .game-info {
   margin-left: 20px;
 }
+.restart{
+  width: 100px;
+}
+
 
